@@ -1,6 +1,7 @@
 ---
 title: "Allan Lab - Pictures"
 layout: piclay
+exclude_from_nav: true
 excerpt: "Allan Lab -- Pictures"
 permalink: /pictures/
 ---
