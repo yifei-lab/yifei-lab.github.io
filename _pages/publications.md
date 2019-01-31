@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />

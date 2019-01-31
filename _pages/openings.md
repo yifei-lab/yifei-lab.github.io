@@ -6,9 +6,15 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+## Open positions
 
-Under construction
+The Huang Lab currently has multiple openings for prospective graduate students and postdoctoral researchers. A goal of our lab is to train next generation scientists equipped with in-depth knowledge in both biology and machine learning. 
+We welcome applicants from diverse academic backgrounds including biology, bioinformatics, computer science, mathematics, statistics, and other quantitative disciplines.
+Please contact <a href="mailto:yuh371@psu.edu">Dr. Yifei Huang</a> directly if you are interested in join the lab!
+
+Students interested in PhD positions should also apply to <a href="https://bio.psu.edu/graduate-portal/join-our-program/the-biology-graduate-program-at-penn-state">the Biology Program</a>, <a href="https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics">the Bioinformatics and Genomics Program</a>, or <a href="https://www.huck.psu.edu/graduate-programs/molecular-cellular-and-integrative-biosciences">the Molecular, Cellular, and Integrative Biosciences Program</a> at Penn State. 
+We emphasize on motivation and do not expect that students have already mastered both biology and computation before joining our lab. 
+
 
 <!--
 We are always looking for new group members with passion, talent, and grit!

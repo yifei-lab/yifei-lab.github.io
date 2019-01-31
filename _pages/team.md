@@ -1,5 +1,5 @@
 ---
-title: "Huang Lab - Team"
+title: "Huang Lab - People"
 layout: gridlay
 # layout: textlay
 excerpt: "Huang Lab: Team members"
@@ -7,7 +7,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+## Group Members
 
  **We are  looking for new PhD students and postdocs interested in genomics, evolution, and bioinformatics ** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
