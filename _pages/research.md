@@ -48,6 +48,11 @@ combination of classical population genetic theory with modern machine-learning 
 data is a powerful paradigm for the study of both human evolution and disease.
 </p>
 
+<ul>
+  <li>Yi-Fei Huang and Adam Siepel. Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease. <em>bioRxiv</em>. doi: https://doi.org/10.1101/441337</li>
+</ul>
+
+
 #### Scalable prediction of deleterious noncoding mutations in the human genome
 
 <p>
@@ -55,9 +60,36 @@ data is a powerful paradigm for the study of both human evolution and disease.
 Many genetic variants that influence phenotypes of interest are located outside of protein-coding genes, yet existing methods for identifying such variants have poor predictive power. Recently, we developed a new computational method, called LINSIGHT, that substantially improves the prediction of noncoding nucleotide sites at which mutations are likely to have deleterious fitness consequences, and which, therefore, are likely to be phenotypically important. LINSIGHT combines a generalized linear model for functional genomic data with a probabilistic model of molecular evolution. The method is fast and highly scalable, enabling it to exploit the "big data" available in modern genomics. We show that LINSIGHT outperforms the best available methods in identifying human noncoding variants associated with inherited diseases. In addition, we apply LINSIGHT to an atlas of human enhancers and show that the fitness consequences at enhancers depend on cell type, tissue specificity, and constraints at associated promoters.
 </p>
 
+<ul>
+  <li>
+  Yi-Fei Huang, Brad Gulko, and Adam Siepel. Fast, scalable prediction of deleterious
+  noncoding variants from functional and population genomic data. <em>Nature Genetics</em>.
+  2017;49:618-624
+  </li>
+</ul>
+
 #### Statistical phylogenetic models for inferring functional protein patches
 <p>
 <img src="../images/slider7001400/gp4rate.jpg" alt="LASSIE" width="50%" height="50%" style="float:left;margin:0px 10px">
 A variety of statistical phylogenetic models have been developed to predict functionally important protein sites, e.g. ligand binding sites or protein-protein interaction interfaces, by comparing sequences from different species. However, most of the existing methods ignore the spatial clustering of functionally important sites in protein tertiary/primary structures, which significantly reduces their power to identify functionally important regions in proteins. We developed several new statistical phylogenetic models for inferring functionally important protein regions in which Gaussian processes or hidden Markov models are used as prior distributions to model the spatial correlation of evolutionary patterns in protein tertiary/primary structures. Both simulation studies and empirical data analyses suggest that these new models outperform classic phylogenetic models. Therefore, these new models may be useful tools for extracting functional insights from protein sequences and for guiding mutagenesis experiments. Furthermore, the new methodologies developed in these models may also be used in the development of new statistical models to answer other important questions in phylogenetics and molecular evolution.
 </p>
+
+<ul>
+  <li>
+  Yi-Fei Huang and G. Brian Golding. FuncPatch: A web server for the fast Bayesian
+  inference of conserved functional patches in protein 3D structures. <em>Bioinformatics</em>.
+  2015;31:523-531
+  </li>
+
+  <li>
+  Yi-Fei Huang and G. Brian Golding. Phylogenetic Gaussian process model for
+  the inference of functionally important regions in protein tertiary structures. <em>PLoS
+  Computational Biology</em>. 2014;10:e1003429.
+  </li>
+
+  <li>
+  Yi-Fei Huang and G. Brian Golding. Inferring sequence regions under functional
+  divergence in duplicate genes. <em>Bioinformatics</em>. 2012;28:176-183.
+  </li>
+</ul>
 
