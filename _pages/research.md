@@ -24,7 +24,7 @@ deleterious mutations are quickly purged from
 populations due to natural selection, which in turn leaves detectable marks on human genomic sequences.
 We have developed multiple machine learning and statistical frameworks 
 to identify these signatures of deleterious variants from population and functional genomic data.
-Not only have our computational methods provided useful insights on human evolution but also have been applied
+Not only have our computational methods provided useful insights into human evolution but also have been applied
 to prioritize causal variants associated with human genetic disorders.
 
 #### Estimation of selection coefficients associated with human coding variants 
