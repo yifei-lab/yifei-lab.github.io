@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a freshly minted research group in the Biology Department and the Huck Institutes of Life Sciences at the Pennsylvania State University. Our research is focused on unifying state-of-the-art machine learning techniques and statistical evolutionary models to understand how genomic variation contributes to human disease and evolution.
+We are a research group in the Biology Department and the Huck Institutes of Life Sciences at the Pennsylvania State University. Our research is focused on unifying state-of-the-art machine learning techniques and statistical evolutionary models to understand how genomic variation contributes to human disease and evolution.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
