@@ -1,74 +1,81 @@
-- title: "Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease"
+- title: "<strong> Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease </strong>"
   authors: <strong> Yi-Fei Huang </strong> and Adam Siepel&#9993;
   link:
-    url: https://www.biorxiv.org/content/early/2018/10/13/441337
-    display:  bioRxiv 441337
+    url: https://genome.cshlp.org/content/early/2019/06/27/gr.245522.118.abstract
+    display:  Genome Research gr.245522.118 (2019)
   highlight: 0
 
-- title: "PhastWeb: a web interface for evolutionary conservation scoring of multiple sequence alignments using phastCons and phyloP"
+- title: "<strong> Characterizing RNA stability genome-wide through combined analysis of PRO-seq and RNA-seq data </strong>"
+  authors: Amit Blumberg, Yixin Zhao, <strong> Yi-Fei Huang </strong>, Noah Dukler, Edward J. Rice, Katie Krumholz, Charles G. Danko and Adam Siepel&#9993;
+  link:
+    url: https://www.biorxiv.org/content/10.1101/690644v1.abstract
+    display: bioRxiv 690644
+  highlight: 0
+
+- title: "<strong> PhastWeb: a web interface for evolutionary conservation scoring of multiple sequence alignments using phastCons and phyloP </strong>"
   authors: Ritika Ramani, Katie Krumholz, <strong> Yi-Fei Huang </strong>, and Adam Siepel&#9993;
   link:
-    url: https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty966/5210871?redirectedFrom=fulltext
-    display:  Bioinformatics, In Press
+    url: https://doi.org/10.1093/bioinformatics/bty966
+    display:  Bioinformatics 35:2320-2322 (2019)
   highlight: 0
 
-- title: "Scikit-ribo Enables Accurate Estimation and Robust Modeling of Translation Dynamics at Codon Resolution"
+- title: "<strong> Scikit-ribo Enables Accurate Estimation and Robust Modeling of Translation Dynamics at Codon Resolution </strong>"
   authors: Han Fang, <strong> Yi-Fei Huang </strong>, Aditya Radhakrishnan, Adam Siepel, Gholson J Lyon, and Michael C Schatz&#9993;
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2405471217305495
     display:  Cell systems 6:180-191 (2018)
   highlight: 0
 
-- title: "Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data"
+- title: "<strong> Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data </strong>"
   authors: <strong> Yi-Fei Huang </strong>, Brad Gulko, and Adam Siepel&#9993;
   link:
     url: https://www.nature.com/articles/ng.3810
     display:  Nature Genetics 49:618-624 (2017)
   highlight: 0
 
-- title: "Is a super-enhancer greater than the sum of its parts?"
+- title: "<strong> Is a super-enhancer greater than the sum of its parts? </strong>"
   authors: Noah Dukler&#42;, Brad Gulko&#42;, <strong> Yi-Fei Huang&#42; </strong>, and Adam Siepel&#9993;
   link:
     url: https://www.nature.com/articles/ng.3810
     display:  Nature Genetics 49:618-624 (2017)
   highlight: 0
 
-- title: "Nascent RNA sequencing reveals a dynamic global transcriptional response at genes and enhancers to the natural medicinal compound celastrol"
+- title: "<strong> Nascent RNA sequencing reveals a dynamic global transcriptional response at genes and enhancers to the natural medicinal compound celastrol </strong>"
   authors: Noah Dukler, Gregory T Booth, <strong> Yi-Fei Huang </strong>, Nathaniel Tippens, Colin T Waters, Charles G Danko, John T Lis&#9993;, and Adam Siepel&#9993;
   link:
     url: https://genome.cshlp.org/content/early/2017/10/12/gr.222935.117.abstract
     display:  Genome Research 27:1816-1829 (2017)
   highlight: 0
 
-- title: "Robust high-performance nanoliter-volume single-cell multiple displacement amplification on planar substrates"
+- title: "<strong> Robust high-performance nanoliter-volume single-cell multiple displacement amplification on planar substrates </strong>"
   authors: Kaston Leung&#42;, Anders Klaus&#42;, Bill K Lin, Emma Laks, Justina Biele, Daniel Lai, Ali Bashashati, <strong> Yi-Fei Huang </strong>, Radhouane Aniba, Michelle Moksa, Adi Steif, Anne-Marie Mes-Masson, Martin Hirst, Sohrab P Shah, Samuel Aparicio, and Carl L Hansen&#9993;
   link:
     url: http://www.pnas.org/content/113/30/8484.short
     display: Proceedings of the National Academy of Sciences 113:8484-8489 (2016)
   highlight: 0
 
-- title: "FuncPatch: a web server for the fast Bayesian inference of conserved functional patches in protein 3D structures"
+- title: "<strong> FuncPatch: a web server for the fast Bayesian inference of conserved functional patches in protein 3D structures </strong>"
   authors: <strong> Yi-Fei Huang </strong> and G. Brian Golding&#9993;
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/31/4/523/2748177
     display: Bioinformatics 31:523-531 (2015)
   highlight: 0
 
-- title: "Phylogenetic Gaussian process model for the inference of functionally important regions in protein tertiary structures"
+- title: "<strong> Phylogenetic Gaussian process model for the inference of functionally important regions in protein tertiary structures </strong>"
   authors: <strong> Yi-Fei Huang </strong> and G. Brian Golding&#9993;
   link:
     url: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003429
     display: PLoS Computational Biology 10:e1003429 (2014)
   highlight: 0
 
-- title: "Inferring sequence regions under functional divergence in duplicate genes"
+- title: "<strong> Inferring sequence regions under functional divergence in duplicate genes </strong>"
   authors: <strong> Yi-Fei Huang </strong> and G. Brian Golding&#9993;
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/28/2/176/197700
     display: Bioinformatics 28:176-183 (2012)
   highlight: 0
 
-- title: "Evidence against the energetic cost hypothesis for the short introns in highly expressed genes"
+- title: "<strong> Evidence against the energetic cost hypothesis for the short introns in highly expressed genes </strong>"
   authors: <strong> Yi-Fei Huang </strong> and Deng-Ke Niu&#9993;
   link:
     url: https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-8-154
