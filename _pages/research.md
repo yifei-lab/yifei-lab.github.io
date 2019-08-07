@@ -49,7 +49,7 @@ data is a powerful paradigm for the study of both human evolution and disease.
 </p>
 
 <ul>
-  <li>Yi-Fei Huang and Adam Siepel. Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease. <em>Genome Research</em>. gr. 245522.118</li>
+  <li>Yi-Fei Huang and Adam Siepel. Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease. <em>Genome Research</em>. 2019;gr. 245522.118</li>
 </ul>
 
 
