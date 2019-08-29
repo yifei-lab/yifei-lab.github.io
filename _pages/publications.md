@@ -6,6 +6,13 @@ sitemap: false
 permalink: /publications/
 ---
 
+## Preprints
+{% for publi in site.data.preprintlist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
 
 ## Publications
 {% for publi in site.data.publist %}
@@ -14,4 +21,3 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
