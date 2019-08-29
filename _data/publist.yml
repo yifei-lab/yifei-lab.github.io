@@ -1,15 +1,15 @@
-- title: "<strong> Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease </strong>"
-  authors: <strong> Yi-Fei Huang </strong> and Adam Siepel&#9993;
-  link:
-    url: https://genome.cshlp.org/content/early/2019/06/27/gr.245522.118.abstract
-    display:  Genome Research gr.245522.118 (2019)
-  highlight: 0
-
 - title: "<strong> Characterizing RNA stability genome-wide through combined analysis of PRO-seq and RNA-seq data </strong>"
   authors: Amit Blumberg, Yixin Zhao, <strong> Yi-Fei Huang </strong>, Noah Dukler, Edward J. Rice, Katie Krumholz, Charles G. Danko and Adam Siepel&#9993;
   link:
     url: https://www.biorxiv.org/content/10.1101/690644v1.abstract
     display: bioRxiv (2019)
+  highlight: 0
+
+- title: "<strong> Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease </strong>"
+  authors: <strong> Yi-Fei Huang </strong> and Adam Siepel&#9993;
+  link:
+    url: https://genome.cshlp.org/content/early/2019/06/27/gr.245522.118.abstract
+    display:  Genome Research gr.245522.118 (2019)
   highlight: 0
 
 - title: "<strong> PhastWeb: a web interface for evolutionary conservation scoring of multiple sequence alignments using phastCons and phyloP </strong>"
