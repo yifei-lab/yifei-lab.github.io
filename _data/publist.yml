@@ -6,7 +6,7 @@
   highlight: 0
 
 - title: "<strong> PhastWeb: a web interface for evolutionary conservation scoring of multiple sequence alignments using phastCons and phyloP </strong>"
-  authors: Ritika Ramani, Katie Krumholz, <strong> Yi-Fei Huang </strong>, and Adam Siepel&#9993;
+  authors: Ritika Ramani, Katie Krumholz, <strong>Yi-Fei Huang</strong>, and Adam Siepel&#9993;
   link:
     url: https://doi.org/10.1093/bioinformatics/bty966
     display:  Bioinformatics 35:2320-2322 (2019)
