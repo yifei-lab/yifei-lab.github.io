@@ -9,7 +9,7 @@ permalink: /software/
 ### Free software developed by Dr. Huang and lab members
 <ul>
   <li>
-    <a href="https://github.com/CshlSiepelLab/LASSIE">UNEECON</a> - a deep learning model for unified variant and gene prioritization in the human genome
+    <a href="https://github.com/yifei-lab/UNEECON">UNEECON</a> - a deep learning model for unified variant and gene prioritization in the human genome
   </li>
   <li>
     <a href="https://github.com/CshlSiepelLab/LASSIE">LASSIE</a> - a statistical model for estimating allele-specific fitness effects of nonsynonymous mutations
