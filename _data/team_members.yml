@@ -19,11 +19,11 @@
 
 - name: Xinru Zhang
   photo: xinru.jpg
-  info: MSc Student, Bioinformatics & Genomics program
+  info: PhD Student, Bioinformatics & Genomics program
   email: xmz5176@psu.edu
   number_educ: 1
   education1: BSc&#58; <a href="https://en.whu.edu.cn/"> Wuhan University </a> 
-  desc: Xinru is a MSc student in the Bioinformatics and Genomics Program at the Pennsylvania State University. She is interested in the interface of evolutionary biology and human health. She is now studying the evolution of non-coding DNAs in the human genome, using both machine learning methods and phylogenetic analyses.
+  desc: Xinru is a PhD student in the Bioinformatics and Genomics Program at the Pennsylvania State University. She is interested in the interface of evolutionary biology and human health. She is now studying the evolution of non-coding DNAs in the human genome, using both machine learning methods and phylogenetic analyses.
 
 - name: "This could be you!"
   photo: rock.jpg
