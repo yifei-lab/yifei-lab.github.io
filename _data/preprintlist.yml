@@ -1,15 +1,8 @@
-- title: "<strong>Unified inference of missense variant effects and gene constraints in the human genome</strong>"
+- title: "<strong>Dissecting genomic determinants of positive selection with an evolution-guided regression model</strong>"
   authors: <strong>Yi-Fei Huang</strong>&#9993;
   link:
-    url: https://doi.org/10.1101/757468
-    display: bioRxiv (2019)
-  highlight: 0
-
-- title: "<strong>Phylogenetic modeling of regulatory element turnover based on epigenomic data</strong>"
-  authors: Noah Dukler, <strong>Yi-Fei Huang</strong> and Adam Siepel&#9993;
-  link:
-    url: https://doi.org/10.1101/773614
-    display: bioRxiv (2019)
+    url: https://doi.org/10.1101/2020.11.24.396762
+    display: bioRxiv (2020)
   highlight: 0
 
 - title: "<strong>Characterizing RNA stability genome-wide through combined analysis of PRO-seq and RNA-seq data</strong>"
