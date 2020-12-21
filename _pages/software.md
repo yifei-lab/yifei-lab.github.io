@@ -9,6 +9,9 @@ permalink: /software/
 ### Free software developed by Dr. Huang and lab members
 <ul>
   <li>
+    <a href="https://github.com/yifei-lab/MK-regression">MK regression</a> - a hybrid of the MK test and linear regression for inferring causal genomic features of positive selection
+  </li>
+  <li>
     <a href="https://github.com/yifei-lab/UNEECON">UNEECON</a> - a deep learning model for unified variant and gene prioritization in the human genome
   </li>
   <li>
