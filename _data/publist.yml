@@ -22,15 +22,15 @@
 - title: "<strong> Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease </strong>"
   authors: <strong>Yi-Fei Huang</strong> and Adam Siepel&#9993;
   link:
-    url: https://genome.cshlp.org/content/early/2019/06/27/gr.245522.118.abstract
-    display:  Genome Research gr.245522.118 (2019)
+    url: https://genome.cshlp.org/content/29/8/1310
+    display: Genome Research 29:1310-1321 (2019)
   highlight: 0
 
 - title: "<strong> PhastWeb: a web interface for evolutionary conservation scoring of multiple sequence alignments using phastCons and phyloP </strong>"
   authors: Ritika Ramani, Katie Krumholz, <strong>Yi-Fei Huang</strong>, and Adam Siepel&#9993;
   link:
     url: https://doi.org/10.1093/bioinformatics/bty966
-    display:  Bioinformatics 35:2320-2322 (2019)
+    display: Bioinformatics 35:2320-2322 (2019)
   highlight: 0
 
 - title: "<strong> Scikit-ribo Enables Accurate Estimation and Robust Modeling of Translation Dynamics at Codon Resolution </strong>"
