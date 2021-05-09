@@ -73,3 +73,6 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Alumni
+ 
+**Jui-Shan Lin (M.Sc. student, Bioinformatics and Genomics Program, 2019-2021).** Jui-Shan is interested in bioinformatics, precision medicine, and machine learning. Before joining Penn State, Jui-Shan obtained her B.Sc. degree from [National Cheng Kung University](https://web.ncku.edu.tw/index.php?Lang=en). Jui-Shan is currently a Data Scientist at [New York Genome Center](https://www.nygenome.org/).
