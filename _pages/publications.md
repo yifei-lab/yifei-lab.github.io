@@ -21,3 +21,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+*: co-first author
+
+&#9993;: corresponding author
