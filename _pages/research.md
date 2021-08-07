@@ -25,8 +25,8 @@ We are developing novel statistical methods that may boost the statistical power
 
 #### 3. Functional and fitness effects of structural variation
 
-A large portion of genetic diversity in human populations is attributable to structural variants, such as deletions, insertions, and inversion. 
-Unlike single nucleotide variants that affect a single gene or noncoding element, a structural variant may span multiple loci.
+A large portion of genetic diversity in human populations is attributable to structural variants, such as deletions, insertions, and inversions. 
+Unlike a single nucleotide variant that affects one gene or noncoding element, a structural variant may affect multiple loci simultaneously.
 Thus, it is challenging to infer the functional and fitness effects of structural variants.
 
 We are developing novel computational methods to infer the effects of structural variants from large-scale population genomic data. By combining population genetic models and machine learning techniques, our new methods will shed new light on how structural variation contributes to human disease and evolution.
