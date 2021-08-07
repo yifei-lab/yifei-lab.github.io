@@ -7,26 +7,33 @@ permalink: /research/
 ---
 
 ## Research
-Millions of genetic variants have been identified in human genomes and the
-catalog of genetic variation is still expanding rapidly due to the continual
-drop of sequencing costs. Understanding the functional, clinical, and
-evolutionary significance of genetic variants has become a central question in
-biology and precision medicine. 
-However, it is very challenging to distinguish important variants from neutral ones.
-Therefore, many genetic variants in patients' genomes are marked as "variant of
-uncertain significance", forming a major hurdle for both basic research and
-medical practice.
+Our research is focused on examining how natural selection shapes human evolution and disease. A common theme of our work is to combine realistic biological models and machine learning techniques to make sense of large-scale genomic data.
 
-We are interested in addressing the problem of "variant of uncertain significance" 
-by unifying evolutionary biology and machine learning. Our research is motivated
-by the insight that evolution operates like a high-throughput mutagenesis experiments:
-deleterious mutations are quickly purged from 
-populations due to natural selection, which in turn leaves detectable marks on human genomic sequences.
-We have developed multiple machine learning and statistical frameworks 
-to identify the signatures of deleterious variants from population and functional genomic data.
-Not only have our computational methods provided useful insights into human evolution but also have been applied
-to prioritize causal variants associated with human genetic disorders.
+#### 1. Population Genetics-based prediction of disease-causing variants
 
+Millions of genetic variants have been identified in the human genome. Understanding the functional and clinical significance of genetic variants has become a central question in biology and precision medicine.
+However, it is challenging to distinguish between pathogenic and benign variants. Thus, many genetic variants in patients' genomes are marked as variants of uncertain significance (VUS), which forms a major hurdle for both basic research and medical practice.
+
+We are interested in addressing the problem of VUS by unifying population genetics and machine learning. Our research is motivated by the insight that evolution operates like a high-throughput mutagenesis experiment: deleterious mutations are quickly purged from populations due to natural selection, which in turn leaves detectable marks on human genomic sequences.
+We have been developing multiple population genetics-based machine learning models to predict deleterious coding and noncoding variants in the human genome. Our methods have been widely used to prioritize genetic variants associated with human disease.
+
+#### 2. Positive selection and lineage-specific selection in the human genome
+
+A key question in biology is to understand what genetic changes make us human. To answer this question, we need to pinpoint genes and noncoding sequences under positive selection and/or lineage-specific selection during the course of human evolution.  Unfortunately, this is a challenging task because the signals of selection are often very weak at individual genes and regulatory elements.
+
+We are developing novel statistical methods that may boost the statistical power to detect weak signals of selection. By combining evolutionary theory and statistical modeling, our new methods will elucidate new insights into genetic changes that make us apart from other primates.
+
+#### 3. Functional and fitness effects of structural variation
+
+A large portion of genetic diversity in human populations is attributable to structural variants, such as deletions, insertions, and inversion. 
+Unlike single nucleotide variants that affect a single gene or noncoding element, a structural variant may span multiple loci.
+Thus, it is challenging to infer the functional and fitness effects of structural variants.
+
+We are developing novel computational methods to infer the effects of structural variants from large-scale population genomic data. By combining population genetic models and machine learning techniques, our new methods will shed new light on how structural variation contributes to human disease and evolution.
+
+<!--
+# While numerous statistical methods have been developed to identify 
+#### 2. Genomic determinants of human adaptative evolution
 #### Estimation of selection coefficients associated with human coding variants 
 <p>
 <img src="../images/slider7001400/SmartTipSide.jpg" alt="LASSIE" width="50%" height="50%" style="float:left;margin:0px 10px">
@@ -92,4 +99,4 @@ A variety of statistical phylogenetic models have been developed to predict func
   divergence in duplicate genes. <em>Bioinformatics</em>. 2012;28:176-183.
   </li>
 </ul>
-
+-->
