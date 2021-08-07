@@ -8,8 +8,8 @@ permalink: /vacancies
 
 ## Openings
 
-The Huang Lab currently has multiple openings for prospective graduate students and postdoctoral scholars (see below). A goal of our research lab is to train interdisciplinary scientists equipped with in-depth knowledge in both genomics and machine learning. 
-We welcome applicants from diverse academic backgrounds, including biology, bioinformatics, computer science, statistics, and other quantitative disciplines. Please feel free to contact <a href="mailto:yuh371@psu.edu">Dr. Yifei Huang</a> if you are interested in joining the lab.
+The Huang Lab currently has multiple openings for prospective graduate students and postdoctoral scholars (see below). A goal of our research lab is to train interdisciplinary scientists with in-depth knowledge of both genomics and machine learning. 
+We welcome applicants from diverse academic backgrounds, including biology, bioinformatics, genomics, computer science, statistics, and other quantitative disciplines. Please feel free to contact <a href="mailto:yuh371@psu.edu">Dr. Yifei Huang</a> if you are interested in joining the lab.
 
 ### Postdoc position
 
