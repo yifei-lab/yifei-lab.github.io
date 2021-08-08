@@ -55,7 +55,7 @@ We are a research group in the Biology Department and the Huck Institutes of Lif
 
 
 
- ***We are  looking for motivated PhD students and Postdocs to join our team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) !***
+ ***We are  looking for motivated PhD students and Postdocs to join our team!*** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 <!---
 
