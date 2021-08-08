@@ -17,6 +17,6 @@ An NIH-funded postdoctoral position is available immediately in the Huang Lab. T
 
 ### PhD studentship
 
-Multiple fully funded positions are available in the Huang Lab for prospective PhD students. PhD students in Huang lab will receive training in genomics, statistics, and machine learning to tackle fundamental questions in population genomics, human genomics, computational biology, and molecular evolution.
+Multiple fully funded positions are available in the Huang Lab for prospective PhD students. PhD students in the Huang Lab will receive training in genomics, statistics, and machine learning to tackle fundamental questions in population genomics, human genomics, computational biology, and molecular evolution.
 Prospective students are invited to send their CVs and transcripts to <a href="mailto:yuh371@psu.edu">Dr. Yifei Huang</a>. Prospective students should also apply to <a href="https://bio.psu.edu/graduate-portal/join-our-program/the-biology-graduate-program-at-penn-state">the Biology Program</a>, <a href="https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics">the Bioinformatics and Genomics Program</a>, or <a href="https://www.huck.psu.edu/graduate-programs/molecular-cellular-and-integrative-biosciences">the Molecular, Cellular, and Integrative Biosciences Program</a> at Penn State. 
 We do not expect that students have already mastered both biology and computation before joining the lab. GRE is not required for graduate admission to Penn State.
