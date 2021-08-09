@@ -18,6 +18,8 @@ We are a research group in the Biology Department and the Huck Institutes of Lif
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -42,10 +44,10 @@ We are a research group in the Biology Department and the Huck Institutes of Lif
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/gp4rate.jpg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AUC.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AUC.jpg" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MK2.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MK2.png" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
