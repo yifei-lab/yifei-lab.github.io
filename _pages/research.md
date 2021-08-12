@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 Our research is focused on examining how natural selection shapes human evolution and disease. A common theme of our work is to combine realistic biological models and machine learning techniques to make sense of large-scale genomic data.
 
-#### 1. Population Genetics-based prediction of disease-causing variants
+#### 1. Population genetics-based prediction of disease-causing variants
 
 Millions of genetic variants have been identified in the human genome. Understanding the functional and clinical significance of genetic variants has become a central question in biology and precision medicine.
 However, it is challenging to distinguish between pathogenic and benign variants. Thus, many genetic variants in patients' genomes are marked as variants of uncertain significance (VUS), which forms a major hurdle for both basic research and medical practice.
