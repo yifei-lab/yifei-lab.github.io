@@ -21,7 +21,7 @@ We have been developing multiple population genetics-based machine learning mode
 
 A key question in biology is to understand what genetic changes make us human. To answer this question, we need to pinpoint genes and noncoding sequences under positive selection and/or lineage-specific selection during the course of human evolution.  Unfortunately, this is a challenging task because the signals of selection are often very weak at individual genes and regulatory elements.
 
-We are developing novel statistical methods that may boost the statistical power to detect weak signals of selection. By combining evolutionary theory and statistical modeling, our new methods will elucidate new insights into genetic changes that make us apart from other primates.
+We are developing novel statistical methods that may boost the statistical power to detect weak signals of selection. By combining evolutionary theory and statistical modeling, our new methods will elucidate new insights into genetic changes that make us stand apart from other primates.
 
 #### 3. Functional and fitness effects of structural variation
 
