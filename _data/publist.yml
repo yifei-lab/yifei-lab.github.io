@@ -1,117 +1,117 @@
 - title: "<strong>Dissecting genomic determinants of positive selection with an evolution-guided regression model</strong>"
-  authors: <strong>Yi-Fei Huang</strong>&#9993;
+  authors: <u>Yi-Fei Huang</u>&#9993;
   link:
     url: https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab291/6379733
     display: Molecular Biology and Evolution (in press)
   highlight: 0
 
 - title: "<strong>Selection and thermostability suggest G-quadruplexes are novel functional elements of the human genome.</strong>"
-  authors: Wilfried M Guiblet, Michael DeGiorgio, Xiaoheng Cheng, Francesca Chiaromonte, Kristin A. Eckert, <strong>Yi-Fei Huang</strong>&#9993;, Kateryna D Makova&#9993;
+  authors: Wilfried M Guiblet, Michael DeGiorgio, Xiaoheng Cheng, Francesca Chiaromonte, Kristin A. Eckert, <u>Yi-Fei Huang</u>&#9993;, Kateryna D Makova&#9993;
   link:
     url: https://genome.cshlp.org/content/31/7/1136.short
     display: Genome Research 31:1136-1149 (2021)
   highlight: 0
 
 - title: "<strong>Characterizing RNA stability genome-wide through combined analysis of PRO-seq and RNA-seq data</strong>"
-  authors: Amit Blumberg&#42;, Yixin Zhao&#42;, <strong>Yi-Fei Huang</strong>, Noah Dukler, Edward J. Rice, Katie Krumholz, Charles G. Danko and Adam Siepel&#9993;
+  authors: Amit Blumberg&#42;, Yixin Zhao&#42;, <u>Yi-Fei Huang</u>, Noah Dukler, Edward J. Rice, Katie Krumholz, Charles G. Danko and Adam Siepel&#9993;
   link:
     url: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-00949-x
     display: BMC biology 19:1-17 (2021)
   highlight: 0
 
 - title: "<strong>Non-B DNA: a major contributor to small-and large-scale variation in nucleotide substitution frequencies across the genome</strong>"
-  authors: Wilfried M Guiblet&#42;, Marzia A Cremona&#42;, Robert S Harris, Di Chen, Kristin A Eckert, Francesca Chiaromonte&#9993;, <strong>Yi-Fei Huang</strong>&#9993;, Kateryna D Makova&#9993;
+  authors: Wilfried M Guiblet&#42;, Marzia A Cremona&#42;, Robert S Harris, Di Chen, Kristin A Eckert, Francesca Chiaromonte&#9993;, <u>Yi-Fei Huang</u>&#9993;, Kateryna D Makova&#9993;
   link:
     url: https://academic.oup.com/nar/article/49/3/1497/6101603
     display: Nucleic Acids Research 49:1497-1516 (2021)
   highlight: 0
 
 - title: "<strong>Unified inference of missense variant effects and gene constraints in the human genome</strong>"
-  authors: <strong>Yi-Fei Huang</strong>&#9993;
+  authors: <u>Yi-Fei Huang</u>&#9993;
   link:
     url: https://doi.org/10.1371/journal.pgen.1008922
     display: PLoS Genetics 16:e1008922 (2020)
   highlight: 0
 
 - title: "<strong>Phylogenetic modeling of regulatory element turnover based on epigenomic data</strong>"
-  authors: Noah Dukler, <strong>Yi-Fei Huang</strong> and Adam Siepel&#9993;
+  authors: Noah Dukler, <u>Yi-Fei Huang</u> and Adam Siepel&#9993;
   link:
     url: https://doi.org/10.1093/molbev/msaa073
     display: Molecular Biology and Evolution 37:2137-2152 (2020)
   highlight: 0
 
 - title: "<strong> Estimation of allele-specific fitness effects across human protein-coding sequences and implications for disease </strong>"
-  authors: <strong>Yi-Fei Huang</strong> and Adam Siepel&#9993;
+  authors: <u>Yi-Fei Huang</u> and Adam Siepel&#9993;
   link:
     url: https://genome.cshlp.org/content/29/8/1310
     display: Genome Research 29:1310-1321 (2019)
   highlight: 0
 
 - title: "<strong> PhastWeb: a web interface for evolutionary conservation scoring of multiple sequence alignments using phastCons and phyloP </strong>"
-  authors: Ritika Ramani, Katie Krumholz, <strong>Yi-Fei Huang</strong>, and Adam Siepel&#9993;
+  authors: Ritika Ramani, Katie Krumholz, <u>Yi-Fei Huang</u>, and Adam Siepel&#9993;
   link:
     url: https://doi.org/10.1093/bioinformatics/bty966
     display: Bioinformatics 35:2320-2322 (2019)
   highlight: 0
 
 - title: "<strong> Scikit-ribo Enables Accurate Estimation and Robust Modeling of Translation Dynamics at Codon Resolution </strong>"
-  authors: Han Fang, <strong>Yi-Fei Huang</strong>, Aditya Radhakrishnan, Adam Siepel, Gholson J Lyon, and Michael C Schatz&#9993;
+  authors: Han Fang, <u>Yi-Fei Huang</u>, Aditya Radhakrishnan, Adam Siepel, Gholson J Lyon, and Michael C Schatz&#9993;
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2405471217305495
     display:  Cell systems 6:180-191 (2018)
   highlight: 0
 
 - title: "<strong> Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data </strong>"
-  authors: <strong>Yi-Fei Huang</strong>, Brad Gulko, and Adam Siepel&#9993;
+  authors: <u>Yi-Fei Huang</u>, Brad Gulko, and Adam Siepel&#9993;
   link:
     url: https://www.nature.com/articles/ng.3810
     display:  Nature Genetics 49:618-624 (2017)
   highlight: 0
 
 - title: "<strong> Is a super-enhancer greater than the sum of its parts? </strong>"
-  authors: Noah Dukler&#42;, Brad Gulko&#42;, <strong>Yi-Fei Huang&#42;</strong>, and Adam Siepel&#9993;
+  authors: Noah Dukler&#42;, Brad Gulko&#42;, <u>Yi-Fei Huang</u>&#42;, and Adam Siepel&#9993;
   link:
     url: https://www.nature.com/articles/ng.3759
     display:  Nature Genetics 49:2-3 (2017)
   highlight: 0
 
 - title: "<strong> Nascent RNA sequencing reveals a dynamic global transcriptional response at genes and enhancers to the natural medicinal compound celastrol </strong>"
-  authors: Noah Dukler, Gregory T Booth, <strong>Yi-Fei Huang</strong>, Nathaniel Tippens, Colin T Waters, Charles G Danko, John T Lis&#9993;, and Adam Siepel&#9993;
+  authors: Noah Dukler, Gregory T Booth, <u>Yi-Fei Huang</u>, Nathaniel Tippens, Colin T Waters, Charles G Danko, John T Lis&#9993;, and Adam Siepel&#9993;
   link:
     url: https://genome.cshlp.org/content/early/2017/10/12/gr.222935.117.abstract
     display:  Genome Research 27:1816-1829 (2017)
   highlight: 0
 
 - title: "<strong> Robust high-performance nanoliter-volume single-cell multiple displacement amplification on planar substrates </strong>"
-  authors: Kaston Leung&#42;, Anders Klaus&#42;, Bill K Lin, Emma Laks, Justina Biele, Daniel Lai, Ali Bashashati, <strong>Yi-Fei Huang</strong>, Radhouane Aniba, Michelle Moksa, Adi Steif, Anne-Marie Mes-Masson, Martin Hirst, Sohrab P Shah, Samuel Aparicio, and Carl L Hansen&#9993;
+  authors: Kaston Leung&#42;, Anders Klaus&#42;, Bill K Lin, Emma Laks, Justina Biele, Daniel Lai, Ali Bashashati, <u>Yi-Fei Huang</u>, Radhouane Aniba, Michelle Moksa, Adi Steif, Anne-Marie Mes-Masson, Martin Hirst, Sohrab P Shah, Samuel Aparicio, and Carl L Hansen&#9993;
   link:
     url: http://www.pnas.org/content/113/30/8484.short
     display: Proceedings of the National Academy of Sciences 113:8484-8489 (2016)
   highlight: 0
 
 - title: "<strong> FuncPatch: a web server for the fast Bayesian inference of conserved functional patches in protein 3D structures </strong>"
-  authors: <strong>Yi-Fei Huang</strong> and G. Brian Golding&#9993;
+  authors: <u>Yi-Fei Huang</u> and G. Brian Golding&#9993;
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/31/4/523/2748177
     display: Bioinformatics 31:523-531 (2015)
   highlight: 0
 
 - title: "<strong> Phylogenetic Gaussian process model for the inference of functionally important regions in protein tertiary structures </strong>"
-  authors: <strong>Yi-Fei Huang</strong> and G. Brian Golding&#9993;
+  authors: <u>Yi-Fei Huang</u> and G. Brian Golding&#9993;
   link:
     url: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003429
     display: PLoS Computational Biology 10:e1003429 (2014)
   highlight: 0
 
 - title: "<strong> Inferring sequence regions under functional divergence in duplicate genes </strong>"
-  authors: <strong>Yi-Fei Huang</strong> and G. Brian Golding&#9993;
+  authors: <u>Yi-Fei Huang</u> and G. Brian Golding&#9993;
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/28/2/176/197700
     display: Bioinformatics 28:176-183 (2012)
   highlight: 0
 
 - title: "<strong> Evidence against the energetic cost hypothesis for the short introns in highly expressed genes </strong>"
-  authors: <strong>Yi-Fei Huang</strong> and Deng-Ke Niu&#9993;
+  authors: <u>Yi-Fei Huang</u> and Deng-Ke Niu&#9993;
   link:
     url: https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-8-154
     display: BMC Evolutionary Biology 8:154 (2008)
