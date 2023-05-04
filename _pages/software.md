@@ -25,13 +25,5 @@ permalink: /software/
   <li>
     <a href="https://github.com/CshlSiepelLab/LINSIGHT">LINSIGHT</a> - a statistical model for predicting deleterious noncoding variants in the human genome
   </li>
-
-  <li>
-    <a href="http://info.mcmaster.ca/yifei/software/gp4rate.html">GP4Rate</a> - a phylogenetic Gaussian process model for inferring conserved regions in protein tertiary structures
-  </li>
-
-  <li>
-    <a href="http://info.mcmaster.ca/yifei/software/HMMDiverge.html">HMMDiverge</a> - a phylogenetic hidden Markov model for detecting protein regions under functional divergence
-  </li>
 </ul>
 
