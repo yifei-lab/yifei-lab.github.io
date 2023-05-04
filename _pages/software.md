@@ -9,6 +9,10 @@ permalink: /software/
 ## Software developed by Dr. Huang and lab members
 <ul>
   <li>
+    <a href="https://github.com/May-BG/GroupAcc">GroupAcc</a> - a statistical framework for inferring weakly accelerated evolution in transcription factor binding sites
+  </li>
+
+  <li>
     <a href="https://github.com/yifei-lab/MK-regression">MK regression</a> - a hybrid of the MK test and linear regression for inferring causal genomic features of positive selection
   </li>
   <li>
@@ -20,10 +24,6 @@ permalink: /software/
 
   <li>
     <a href="https://github.com/CshlSiepelLab/LINSIGHT">LINSIGHT</a> - a statistical model for predicting deleterious noncoding variants in the human genome
-  </li>
-
-  <li>
-    <a href="http://info.mcmaster.ca/yifei/FuncPatch">FuncPatch</a> - a web server for fast Bayesian inference of conserved patches in protein 3D structures
   </li>
 
   <li>
