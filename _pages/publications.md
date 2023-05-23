@@ -25,3 +25,5 @@ permalink: /publications/
 *: co-first author
 
 &#9993;: corresponding author
+
+<u>Underscore</u>: lab member/alumnus
